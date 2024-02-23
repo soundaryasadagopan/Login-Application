@@ -1,0 +1,49 @@
+.item{
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2{
+    width:600px;
+    height:600px;
+    background-color:white;
+    border:1px solid black;
+    text-align: center;
+    
+}
+.box2 input[type="button"]{
+    padding-left:10px;
+    padding-right:10px;
+    border-radius: 10px;
+    background-color: rgb(170, 178, 178);
+    font-size: 15px;
+    text-align: center;
+
+}
+.box2 input[type="reset"]{
+    padding-left:10px;
+    padding-right:10px;
+    border-radius: 10px;
+    background-color: rgb(170, 178, 178);
+    font-size: 15px;
+    text-align: center;
+
+}
+body{
+    background-color:rgb(217, 217, 228);
+}
+p{
+    font-size: 18px;
+    font-weight: bold;
+}
+table,tr,td,th{
+border:1px solid black;
+border-collapse:collapse;
+}
+#mytable{
+margin:auto;
+width:400px;
+}
+    
